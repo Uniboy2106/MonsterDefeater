@@ -2,7 +2,7 @@ class Hero {
   constructor(x,y,r)
 	{
 		var options = { 
-			density: 1, 
+			density: 0.01, 
 			frictionAir: 1
 		};
 		this.x=x;
